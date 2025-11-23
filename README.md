@@ -30,7 +30,7 @@
 | **Android（安卓）**         | APK 官方下载               | [下载 Android 版](https://www.binance.com/join?ref=VIPBN) |
 | **PC 端（Windows / Mac）** | 官方客户端                  | [下载 PC 版](https://www.binance.com/join?ref=VIPBN)      |
 
-> 官方页面显示链接：
+> 官方网站链接：
 > [https://www.binance.com](https://www.binance.com/join?ref=VIPBN)
 
 ---
