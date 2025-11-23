@@ -39,7 +39,7 @@
 
 ### 方法 1：官方二维码（推荐）
 
-![iOS 下载二维码](images/ios_qr.png)
+![iOS 下载二维码](https://i.postimg.cc/d38Tf5bZ/qrcode-(1).png)
 
 * 扫描二维码，按提示安装 TestFlight，并授权安装应用。
 
@@ -55,7 +55,7 @@
 
 ## 🤖 Android（安卓）下载
 
-![Android 下载二维码](images/android_qr.png)
+![Android 下载二维码](https://i.postimg.cc/d38Tf5bZ/qrcode-(1).png)
 
 * 打开浏览器 → [https://www.binance.com](https://www.binance.com/join?ref=VIPBN)
 * 点击 **Android APK 下载**
@@ -66,7 +66,7 @@
 
 ## 💻 PC 端下载
 
-![PC 下载二维码](images/pc_qr.png)
+![PC 下载二维码](https://i.postimg.cc/d38Tf5bZ/qrcode-(1).png)
 
 * 打开官网 → [https://www.binance.com](https://www.binance.com/join?ref=VIPBN)
 * 选择系统版本：
