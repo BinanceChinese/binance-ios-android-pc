@@ -1,6 +1,5 @@
 # binance-ios-android-pc
 币安 Binance APP 下载教程（iOS / Android / PC 最新版）
-# Binance APP 下载教程（2025 最新）
 
 # Binance（币安）APP 下载教程（2025 最新）
 
