@@ -127,12 +127,4 @@
 - ⭐ 欢迎 Star 本仓库支持一下  
 - 🔁 可分享给需要下载币安客户端的朋友  
 
----
-
-## 七、关键词（说明用）
-
-币安下载、Binance 下载、币安官网、币安 iOS 下载、币安 安卓 APK、币安 PC 客户端、Binance official download、Binance app for iOS / Android / PC、币安下载教程。
-
----
-
 > 本仓库仅作信息整理用途，不代表币安官方立场。请在使用任何交易平台前，自行了解风险。
