@@ -71,7 +71,7 @@
 
 示例（请把图片路径改成你自己的）：  
 
-![币安下载二维码](./images/binance-download-qr.png "币安 Binance iOS / Android 客户端下载二维码")
+![币安下载二维码](./https://ibb.co/YTKJZq0w "币安 Binance iOS / Android 客户端下载二维码")
 
 > 扫码前请核对页面域名是否为 **www.binance.com**，防止钓鱼网站。
 
