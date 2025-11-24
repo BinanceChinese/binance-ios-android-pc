@@ -67,11 +67,9 @@
 
 ## 三、二维码下载（可选）
 
-如果你有准备自己的二维码图片，可以在这里放一张，方便手机扫码。
 
-示例（请把图片路径改成你自己的）：  
+![币安 Binance iOS / Android 客户端下载二维码](https://i.ibb.co/1bcLbXL/IMG-5741.jpg)
 
-![币安下载二维码](./https://ibb.co/YTKJZq0w)
 
 > 扫码前请核对页面域名是否为 **www.binance.com**，防止钓鱼网站。
 
